@@ -1,2 +1,3 @@
 # Healthconnect_appointment_data_summary
 The dataset is a single-clinic, single-window snapshot (Feb 2025–Feb 2026). HealthConnect Clinic loses nearly half of its scheduled appointments to no-shows (48.5%) — a rate high enough that it isn't noise, it's a structural pattern
+The objective of this project is to Identify which appointments are at high risk of no-show at the point of booking, and use that to design targeted, data-driven interventions (reminders, scheduling policy, care delivery mode) that reduce missed visits — without adding blanket friction for the ~50% of patients who were always going to show up.
